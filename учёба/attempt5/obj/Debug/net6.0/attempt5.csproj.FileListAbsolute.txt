@@ -1,0 +1,15 @@
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attempt5\bin\Debug\net6.0\attempt5.exe
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attempt5\bin\Debug\net6.0\attempt5.deps.json
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attempt5\bin\Debug\net6.0\attempt5.runtimeconfig.json
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attempt5\bin\Debug\net6.0\attempt5.dll
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attempt5\bin\Debug\net6.0\attempt5.pdb
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attempt5\obj\Debug\net6.0\attempt5.csproj.AssemblyReference.cache
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attempt5\obj\Debug\net6.0\attempt5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attempt5\obj\Debug\net6.0\attempt5.AssemblyInfoInputs.cache
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attempt5\obj\Debug\net6.0\attempt5.AssemblyInfo.cs
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attempt5\obj\Debug\net6.0\attempt5.csproj.CoreCompileInputs.cache
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attempt5\obj\Debug\net6.0\attempt5.dll
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attempt5\obj\Debug\net6.0\refint\attempt5.dll
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attempt5\obj\Debug\net6.0\attempt5.pdb
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attempt5\obj\Debug\net6.0\attempt5.genruntimeconfig.cache
+C:\Users\sanek\OneDrive\Рабочий стол\учёба\attempt5\obj\Debug\net6.0\ref\attempt5.dll
